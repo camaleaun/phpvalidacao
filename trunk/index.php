@@ -1,5 +1,9 @@
 <?php
 
+/*
+ * Exemplo de uso da classe de validação
+ */
+
 if (!empty($_POST)) {
 
     include_once('Validacao.class.php');
